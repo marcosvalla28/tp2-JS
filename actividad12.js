@@ -1,0 +1,1 @@
+document.write(Math.floor(Math.random()*99)); // ENTREGA UN NUMERO ENTERO ALEATORIO ENTRE 1 Y 99 ()
